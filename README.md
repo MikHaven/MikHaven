@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @MikHaven
-- 👀 I’m interested in ... Game Developer Job
-- 🌱 I’m currently learning ... Unity / C#
-- 💞️ I’m looking to collaborate on ... Game Programming and Design
+- 👀 I’m interested in ... Developer Job
+- 🧠 Built an AGI Blueprint and working on AI Integrations 😻
+- 🎋 I’ve mastered ... Unity / C#, always learning 🌱
+- 💞️ I’m looking to collaborate on ... AI-driven mechanics, Game Programming, and Design
+- 🚀 Always building, always dreaming
 - 📫 micaiahstevens @ gmail . com
 
 <!---
