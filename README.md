@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikHaven
-- 👀 I’m interested in ... Unity Game Developer Job
+- 👀 I’m interested in ... Game Developer Job
 - 🌱 I’m currently learning ... Unity / C#
 - 💞️ I’m looking to collaborate on ... Game Programming and Design
 - 📫 micaiahstevens @ gmail . com
