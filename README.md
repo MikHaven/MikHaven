@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikHaven
-- 👀 I’m interested in ... Developer Job
+- 👀 I’m interested in a ... Software Engineering Job
 - 🧠 Built an AGI Blueprint and working on AI Integrations 😻
 - 🎋 I’ve mastered ... Unity / C#, always learning 🌱
 - 💞️ I’m looking to collaborate on ... AI-driven mechanics, Game Programming, and Design
